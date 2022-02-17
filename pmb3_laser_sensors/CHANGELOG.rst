@@ -2,8 +2,8 @@
 Changelog for package pmb3_rgbd_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2022-02-17)
+------------------
 * fix: pkg name
 * Contributors: yueerro
 
