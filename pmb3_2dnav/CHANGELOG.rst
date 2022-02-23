@@ -2,8 +2,8 @@
 Changelog for package pmb3_2dnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2022-02-23)
+------------------
 * Merge branch 'scafo' into 'ferrum-devel'
   New files for Scafo base
   See merge request robots/pmb3_navigation!1
