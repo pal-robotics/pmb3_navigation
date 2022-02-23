@@ -2,6 +2,15 @@
 Changelog for package pmb3_2dnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'scafo' into 'ferrum-devel'
+  New files for Scafo base
+  See merge request robots/pmb3_navigation!1
+* Add dummy pmb3_rgbd_sensors pkg
+* Use pal_navigation_cfg_pmb2
+* Contributors: yueerro
+
 0.0.2 (2022-02-17)
 ------------------
 
