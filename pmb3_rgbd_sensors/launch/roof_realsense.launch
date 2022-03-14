@@ -9,7 +9,7 @@
   <arg name="filters"           default="disparity,spatial,decimation"/>
   <arg name="pointcloud_frame_skip" default="1" />
 
-  <arg name="calibration_file_path" value="$(eval optenv('stockbot_rgbd_sensors_calibration_path', find('pmb3_rgbd_sensors')))"/>
+  <arg name="calibration_file_path" value="$(eval optenv('pmb3_rgbd_sensors_calibration_path', find('pmb3_rgbd_sensors')))"/>
   <arg name="json_file_path"      default="$(find pmb3_rgbd_sensors)/config/roof_config.json"/> 
   
   <arg name="depth_fps"           default="6"/>

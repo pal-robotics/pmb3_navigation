@@ -4,6 +4,7 @@
   <version>0.0.3</version>
   <description>PMB3 navigation metapackage</description>
   <author email="yue.erro@pal-robotics.com">Yue Erro</author>
+  <author email="jose.garcia@pal-robotics.com">Jose Carlos Garcia</author>
   <maintainer email="jose.garcia@pal-robotics.com">Jose Garcia</maintainer>
   <license>Apache License 2.0</license>
 
@@ -12,6 +13,7 @@
   <exec_depend>pmb3_2dnav</exec_depend>
   <exec_depend>pmb3_maps</exec_depend>
   <exec_depend>pmb3_laser_sensors</exec_depend>
+  <exec_depend>pmb3_rgbd_sensors</exec_depend>
 
   <export>
     <metapackage/>
