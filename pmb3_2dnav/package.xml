@@ -5,7 +5,8 @@
   <description>PMB3-specific launch files needed to run
     navigation on the PMB3 robot.</description>
   <author email="yue.erro@pal-robotics.com">Yue Erro</author>
-  <maintainer email="jose.garcia@pal-robotics.com">Jose Garcia</maintainer>
+  <author email="jose.garcia@pal-robotics.com">Jose Carlos Garcia</author>
+  <maintainer email="jose.garcia@pal-robotics.com">Jose Carlos Garcia</maintainer>
   <license>Apache License 2.0</license>
 
   <buildtool_depend>catkin</buildtool_depend>
@@ -14,5 +15,5 @@
   <exec_depend>pmb3_laser_sensors</exec_depend>
   <exec_depend>pmb3_maps</exec_depend>
   <exec_depend>pal_navigation_sm</exec_depend>
-  <exec_depend>pal_navigation_cfg_pmb2</exec_depend>
+  <exec_depend>pal_navigation_cfg_pmb3</exec_depend>
 </package>

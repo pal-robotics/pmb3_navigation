@@ -1,3 +1,6 @@
 <launch>
-
+  <node pkg="sick_safetyscanners" type="sick_safetyscanners_node" name="sick_nanoscan_3" output="screen">
+    <rosparam file="$(find pmb3_laser_sensors)/config/sick-nanoscan-3_laser.yaml" command="load"/>
+    <remap from="scan" to="scan_raw"/> 
+  </node>
 </launch>

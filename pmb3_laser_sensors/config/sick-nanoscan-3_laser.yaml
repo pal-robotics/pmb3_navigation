@@ -1,0 +1,18 @@
+sensor_ip: 10.68.0.100
+host_ip: 10.68.0.1
+interface_ip: 0.0.0.0
+host_udp_port: 0
+frame_id: base_laser_link
+skip: 0
+angle_start: !degrees -120
+angle_end: !degrees  120
+time_offset: -0.08
+min_intensities: 0.0
+channel: 0
+channel_enabled: True
+general_system_state: True
+derived_settings: True
+measurement_data: True
+intrusion_data: True
+application_io_data: True
+use_persistent_config: False
