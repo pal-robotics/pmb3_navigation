@@ -2,6 +2,18 @@
 Changelog for package pmb3_rgbd_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'feat/scafo-devel' into 'ferrum-devel'
+  rgbd filter fine tunning
+  See merge request robots/pmb3_navigation!5
+* rgbd filter fine tunning
+* Merge branch 'develop' into 'ferrum-devel'
+  Develop
+  See merge request robots/pmb3_navigation!2
+* Develop
+* Contributors: josegarcia
+
 0.0.3 (2022-02-23)
 ------------------
 * Merge branch 'scafo' into 'ferrum-devel'

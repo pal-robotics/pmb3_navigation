@@ -2,6 +2,9 @@
 Changelog for package pmb3_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.3 (2022-02-23)
 ------------------
 * Merge branch 'scafo' into 'ferrum-devel'
