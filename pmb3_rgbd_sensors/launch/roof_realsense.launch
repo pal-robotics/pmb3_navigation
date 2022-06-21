@@ -12,7 +12,7 @@
   <arg name="calibration_file_path" value="$(eval optenv('pmb3_rgbd_sensors_calibration_path', find('pmb3_rgbd_sensors')))"/>
   <arg name="json_file_path"      default="$(find pmb3_rgbd_sensors)/config/roof_config.json"/> 
   
-  <arg name="depth_fps"           default="6"/>
+  <arg name="depth_fps"           default="30"/>
   <arg name="infra_fps"           default="30"/>
   <arg name="color_fps"           default="30"/>
 
