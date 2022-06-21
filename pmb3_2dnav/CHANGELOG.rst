@@ -2,8 +2,8 @@
 Changelog for package pmb3_2dnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2022-06-21)
+------------------
 * Merge branch 'develop' into 'ferrum-devel'
   Develop
   See merge request robots/pmb3_navigation!2
