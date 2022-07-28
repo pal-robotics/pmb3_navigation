@@ -2,8 +2,8 @@
 Changelog for package pmb3_rgbd_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.5 (2022-07-28)
+------------------
 * Merge branch 'feat/mr-clean' into 'ferrum-devel'
   Mr clean develop
   See merge request robots/pmb3_navigation!6
