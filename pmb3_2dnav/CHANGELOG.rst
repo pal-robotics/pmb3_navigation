@@ -2,6 +2,14 @@
 Changelog for package pmb3_2dnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'feat/mr-clean' into 'ferrum-devel'
+  Mr clean develop
+  See merge request robots/pmb3_navigation!6
+* Mr clean develop
+* Contributors: josegarcia
+
 0.0.4 (2022-06-21)
 ------------------
 * Merge branch 'develop' into 'ferrum-devel'

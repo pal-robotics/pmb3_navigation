@@ -2,6 +2,9 @@
 Changelog for package pmb3_rgbd_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.4 (2022-06-21)
 ------------------
 * Merge branch 'feat/scafo-devel' into 'ferrum-devel'
