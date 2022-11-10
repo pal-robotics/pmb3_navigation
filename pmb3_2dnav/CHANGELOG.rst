@@ -2,6 +2,14 @@
 Changelog for package pmb3_2dnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'feat/add-lasers-supported' into 'ferrum-devel'
+  added support to ydlidar-tg15/30 and sick-561
+  See merge request robots/pmb3_navigation!8
+* added support to ydlidar-tg15/30 and sick-561
+* Contributors: josegarcia
+
 0.0.5 (2022-07-28)
 ------------------
 * Merge branch 'feat/mr-clean' into 'ferrum-devel'
