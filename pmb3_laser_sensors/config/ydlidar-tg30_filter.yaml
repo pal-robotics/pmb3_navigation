@@ -9,7 +9,7 @@ scan_filter_chain:
   type: laser_filters/LaserScanRangeFilter
   params:
     lower_threshold: 0.01
-    upper_threshold: 25.0
+    upper_threshold: 30.0
     lower_replacement_value: -.inf
     upper_replacement_value: .inf
     
@@ -24,4 +24,3 @@ scan_filter_chain:
     min_y: -3.0
     max_y:  3.0
     max_n:  2
-

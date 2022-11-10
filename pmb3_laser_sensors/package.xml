@@ -10,9 +10,10 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <exec_depend>sick_safetyscanners</exec_depend>
-  <exec_depend>sick_tim</exec_depend>
   <exec_depend>laser_filters</exec_depend>
   <exec_depend>pal_filters</exec_depend>
+  <exec_depend>sick_safetyscanners</exec_depend>
+  <exec_depend>sick_tim</exec_depend>
+  <exec_depend>ydlidar_ros_driver</exec_depend>
 
 </package>

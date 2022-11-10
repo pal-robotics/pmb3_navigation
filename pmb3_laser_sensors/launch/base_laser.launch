@@ -1,5 +1,5 @@
 <launch>
-  <arg name="laser" default="sick-nanoscan-3"/>
+  <arg name="laser" default="ydlidar-tg30"/>
 
   <include file="$(find pmb3_laser_sensors)/launch/$(arg laser)_laser.launch"/>
 
