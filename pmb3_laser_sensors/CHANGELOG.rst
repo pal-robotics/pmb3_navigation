@@ -2,6 +2,9 @@
 Changelog for package pmb3_rgbd_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.6 (2022-11-10)
 ------------------
 * Merge branch 'feat/add-lasers-supported' into 'ferrum-devel'

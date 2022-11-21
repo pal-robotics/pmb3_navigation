@@ -2,6 +2,14 @@
 Changelog for package pmb3_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'added_small_office_map' into 'gallium-devel'
+  added small_office map
+  See merge request robots/pmb3_navigation!9
+* added small_office map
+* Contributors: andrea.capodacqua, josegarcia
+
 0.0.6 (2022-11-10)
 ------------------
 
