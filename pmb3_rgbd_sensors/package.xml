@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="3">
   <name>pmb3_rgbd_sensors</name>
-  <version>0.0.6</version>
+  <version>0.0.7</version>
   <description>PMB3-specific RGBD sensors launch and config files.</description>
   <author email="yue.erro@pal-robotics.com">Yue Erro</author>
   <author email="jose.garcia@pal-robotics.com">Jose Carlos Garcia</author>
