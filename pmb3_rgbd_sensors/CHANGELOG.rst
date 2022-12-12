@@ -2,6 +2,11 @@
 Changelog for package pmb3_rgbd_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Update base_floor_filter_realsense.yaml
+* Contributors: josegarcia
+
 0.0.7 (2022-11-21)
 ------------------
 
