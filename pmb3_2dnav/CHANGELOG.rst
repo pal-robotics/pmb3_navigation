@@ -2,8 +2,8 @@
 Changelog for package pmb3_2dnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.9 (2023-01-04)
+------------------
 * Merge branch 'add_public_sim' into 'gallium-devel'
   Add public_sim argument
   See merge request robots/pmb3_navigation!11
