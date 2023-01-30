@@ -2,6 +2,7 @@
 <launch>
 
   <arg name="state"  default="localization"/>
+  <arg name="is_sim" default="false"/>
   <arg name="public_sim"     default="false"/>
   <arg name="base_frame" default="/base_footprint"/>
   <arg name="map_frame"  default="/map"/>
@@ -11,6 +12,7 @@
     <arg name="public_sim" value="$(arg public_sim)"/>
     <arg name="base_frame" value="$(arg base_frame)"/>
     <arg name="map_frame"  value="$(arg map_frame)"/>
+    <arg name="is_sim" value="$(arg is_sim)"/>
   </include>
 
 </launch>
