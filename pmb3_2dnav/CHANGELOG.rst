@@ -2,6 +2,14 @@
 Changelog for package pmb3_2dnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'feat/map-manager' into 'gallium-devel'
+  move to map manager
+  See merge request robots/pmb3_navigation!12
+* move to map manager
+* Contributors: antoniobrandi
+
 0.0.9 (2023-01-04)
 ------------------
 * Merge branch 'add_public_sim' into 'gallium-devel'
