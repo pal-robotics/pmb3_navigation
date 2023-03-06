@@ -2,6 +2,14 @@
 Changelog for package pmb3_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'add_pal_office_7th_floor_map' into 'gallium-devel'
+  Add new pal office map
+  See merge request robots/pmb3_navigation!14
+* Add new pal office map
+* Contributors: antoniobrandi, thomaspeyrucain
+
 0.0.10 (2023-01-30)
 -------------------
 
