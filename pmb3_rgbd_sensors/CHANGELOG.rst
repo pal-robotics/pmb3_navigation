@@ -2,6 +2,14 @@
 Changelog for package pmb3_rgbd_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'fix/realsense-model' into 'gallium-devel'
+  fix: realsense model typo
+  See merge request robots/pmb3_navigation!15
+* fix: realsense model typo
+* Contributors: josecarlos, josegarcia
+
 0.0.11 (2023-03-06)
 -------------------
 
