@@ -2,6 +2,14 @@
 Changelog for package pmb3_2dnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'feat/move-base-flex' into 'gallium-devel'
+  using move base flex
+  See merge request robots/pmb3_navigation!13
+* using move base flex
+* Contributors: antoniobrandi
+
 0.0.12 (2023-04-03)
 -------------------
 
